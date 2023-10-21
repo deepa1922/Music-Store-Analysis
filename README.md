@@ -16,7 +16,7 @@ sql
 * Q4: Let's invite the artists who have written the most rock music in our dataset. 
 * Return the Artist name and total track count of the top 10 rock bands.
 * Q5: Determine the most popular music genre for each country.
---  you can find more detailed analysis in the "music_analysis.sql" file
+ you can find more detailed analysis in the "music_analysis.sql" file
 
 ## Project Results
 
