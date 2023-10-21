@@ -9,13 +9,13 @@ This project is an in-depth SQL-based analysis of an online music store's datase
 
 The project addresses several critical questions including:
 
-```sql
--- Q1: Who is the senior most employee based on job title?
--- Q2: Which country has the most invoices?
--- Q3: Who is the best customer in terms of spending?
--- Q4: Let's invite the artists who have written the most rock music in our dataset. 
--- Return the Artist name and total track count of the top 10 rock bands.
--- Q5: Determine the most popular music genre for each country.
+sql
+* Q1: Who is the senior most employee based on job title?
+* Q2: Which country has the most invoices?
+* 3: Who is the best customer in terms of spending?
+* Q4: Let's invite the artists who have written the most rock music in our dataset. 
+* Return the Artist name and total track count of the top 10 rock bands.
+* Q5: Determine the most popular music genre for each country.
 --  you can find more detailed analysis in the "music_analysis.sql" file
 
 ## Project Results
